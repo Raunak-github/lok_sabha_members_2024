@@ -1,0 +1,14 @@
+.modal-dialog
+{
+    width: 90%;
+}
+.modal-body
+{
+    width: 80%;
+    font-size: 24px;
+}
+.heading
+{
+    width: 100%;
+    text-align: center;
+}
